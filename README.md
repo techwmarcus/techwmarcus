@@ -8,7 +8,7 @@ I am a self taught network analyst student with a profound interest in informati
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Skills (Pending Implementations)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -44,6 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EE0000?&style=for-the-badge&logo=comptia&logoColor=white" />
+
 </div>
 
 ## Projects
