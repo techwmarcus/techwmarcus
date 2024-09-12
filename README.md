@@ -6,7 +6,7 @@ I am a self taught network analyst student with a profound interest in informati
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to eventualy join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills (Pending Implementations)
 
