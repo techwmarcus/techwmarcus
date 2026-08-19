@@ -29,9 +29,12 @@ My journey in computer science has led me to develop a passion for cloud infrast
 </div>
 
 ### CI/CD
+
 <div>
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Argo_CD-EF7B4D?&style=for-the-badge&logo=argo&logoColor=white" />
 </div>
+
 
 ### Infrastructure as Code
 <div>
